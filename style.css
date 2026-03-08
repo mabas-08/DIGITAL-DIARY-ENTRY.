@@ -17,7 +17,6 @@ div{
 }
 nav{
     background-color: #C6A75E;
-    color:maroon; 
     padding: 25px;
     margin:0%;  
     position:sticky;
@@ -26,6 +25,9 @@ nav{
     display:flex;
     gap: 30px;  
     justify-content: flex-end; 
+}
+a{
+    color:maroon;
 }
 a:hover{
         color:#3A2E2A !important;
@@ -68,4 +70,7 @@ a:hover{
 .diary-form input:hover,
 .diary-form textarea:hover{
                            border:2px solid #C6A75E;
+}
+.body p{
+        text-align: justify;
 }
