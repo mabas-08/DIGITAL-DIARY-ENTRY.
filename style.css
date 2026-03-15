@@ -2,6 +2,9 @@ body{
     background-color:#0B1C2D; 
     color:#F5F1E8; 
     font-family:'Times New Roman';
+    padding:0px;
+    margin:0px;
+    height:100%;
 }
 div{
     background-color: #F5F1E8; 
